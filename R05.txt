@@ -1,0 +1,4 @@
+asset_id,hostname,os,ip_lab,owner,is_test
+LAB-001,win-01,Windows,192.168.56.102,LAB,true
+LAB-002,ubuntu-server,Ubuntu,192.168.56.101,LAB,true
+LAB-003,vbox-host-gw,VirtualBox,192.168.56.1,LAB,true
